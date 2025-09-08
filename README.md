@@ -1,6 +1,3 @@
-# Tema-Proyecto-Final-EnabledMinds.com
-Documento que describe con detalle el tema de mi sitio web, los motivos hacia su creación y un publico objetivo el cual la pagina esta dirigida.
-
 Tema del sitio web: EnabledMinds.com
 
 Descripción: EnabledMinds.com será una pagina web educativa diseñada en relación a las discapacidades que los seres humanos conllevamos en el día a día ya sean físicas, mentales o intelectuales.
